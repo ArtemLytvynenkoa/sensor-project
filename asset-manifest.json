@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sensor-project/static/css/main.8148323a.css",
+    "main.js": "/sensor-project/static/js/main.f75c4046.js",
+    "index.html": "/sensor-project/index.html",
+    "static/media/index.cjs": "/sensor-project/static/media/index.42119833dddefe38a9fa.cjs",
+    "main.8148323a.css.map": "/sensor-project/static/css/main.8148323a.css.map",
+    "main.f75c4046.js.map": "/sensor-project/static/js/main.f75c4046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8148323a.css",
+    "static/js/main.f75c4046.js"
+  ]
+}
