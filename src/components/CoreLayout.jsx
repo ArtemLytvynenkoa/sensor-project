@@ -75,7 +75,8 @@ const CoreLayout = ({ children }) => (
           display: 'flex',
           flex: '1 1 auto',
           flexDirection: 'column',
-          backgroundColor: 'rgb(26 7 0 / 87%)',
+          backgroundColor: '#fff',
+          padding: '2rem 5rem'
         } }
       >
         <Header/>
